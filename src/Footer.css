@@ -1,0 +1,13 @@
+.para {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+}
+
+.para p {
+    margin: 0 10px;
+    margin-bottom: 0;
+    text-align: center;
+}

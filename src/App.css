@@ -1,0 +1,20 @@
+.app {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.product-card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  flex: 1;
+  min-width: 250px;
+}
+
+.product-title,
+.product-description,
+.product-price {
+  margin-bottom: 10px;
+  overflow: hidden;
+  max-width: 100%;
+  white-space: nowrap;
+}
